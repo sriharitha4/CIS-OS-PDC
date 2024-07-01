@@ -10,10 +10,10 @@ Through live coding sessions, students can learn and apply PDC concepts like con
 - **Parallelism**: Concepts of parallel execution and parallel algorithms.
 - **Distributed Systems**: Basics of distributed systems, communication, and coordination.
 - **Topics**:
-  a. **Concurrency**: Managing multiple computations at the same time.
-  b. **Asynchrony**: Handling operations that can proceed independently.
-  c. **Locality**: Optimizing data access patterns to improve performance.
-  d. **Performance**: Measuring and improving the efficiency of parallel and distributed systems.
+  - **Concurrency**: Managing multiple computations at the same time.
+  - **Asynchrony**: Handling operations that can proceed independently.
+  - **Locality**: Optimizing data access patterns to improve performance.
+  - **Performance**: Measuring and improving the efficiency of parallel and distributed systems.
   
 ### Structure
 1. **Introduction**: Brief introduction to the topic.
