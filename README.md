@@ -1,5 +1,13 @@
 # Live Coding Project: Teaching PDC Concepts
 
+## Table of Contents
+
+* [Motivation](#motivation)
+* [Concept Designs](#conceptdesigns)
+    * [Overview](#overview)
+    * [Structure](#structure)
+* [Contributors](#contributors)
+  
 ## Motivation
 This project aims to teach students the concepts of Parallel and Distributed Computing (PDC) with minimal prior knowledge. 
 Through live coding sessions, students can learn and apply PDC concepts like concurrency, asynchrony, locality and performance interactively.
@@ -18,3 +26,9 @@ Through live coding sessions, students can learn and apply PDC concepts like con
 ### Structure
 1. **Introduction**: Brief introduction to the topic.
 2. **Live Coding Examples**: Interactive coding sessions with step-by-step explanations.
+
+## Contributors
+1. **Ali Siddiqi**
+2. **Nathan Morris**
+3. **Probir Roy**
+4. **Sri Haritha Deevi**
