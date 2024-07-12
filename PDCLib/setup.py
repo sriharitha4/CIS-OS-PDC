@@ -11,7 +11,7 @@ def read_file(file):
 requirements = read_requirements("requirements.txt")
 
 setup(
-    name = 'examplepackage',
+    name = 'PDCLib',
     url = 'https://github.com/sriharitha4/CIS-OS-PDC',
     packages = find_packages(exclude=["test"]),
     install_requires = requirements,
