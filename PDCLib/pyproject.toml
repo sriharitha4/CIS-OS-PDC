@@ -1,0 +1,8 @@
+[project]
+name = "PDC"
+version = "1.0.0"
+
+dependencies = [
+    "numpy",
+    "matplotlib",
+]

@@ -1,10 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-from PIL import Image
-from IPython.display import display, clear_output, HTML
-from datetime import datetime, timedelta
-from math import ceil
+from IPython.display import clear_output
 from time import sleep, time
 from threading import Thread, Event, Lock
 
