@@ -2,6 +2,14 @@
 name = "PDC"
 version = "1.0.0"
 
+[tool.setuptools]
+py-modules = [
+    "Locality",
+    "Performance",
+    "Concurrency",
+    "Asynchronousity",
+]
+
 dependencies = [
     "numpy",
     "matplotlib",
