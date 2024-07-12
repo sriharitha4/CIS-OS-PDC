@@ -15,4 +15,5 @@ setup(
     url = 'https://github.com/sriharitha4/CIS-OS-PDC',
     packages = find_packages(exclude=["test"]),
     install_requires = requirements,
+    py_modules=[ "Locality", "Concurrency", "Asynchronousity", "Performance" ]
 )
